@@ -1,8 +1,8 @@
 class Iosrssi < Formula
   desc "A Swift command-line tool to parse iOS device sysdiagnose log files and retrieve the wifi network RSSI statistics."
   homepage "https://github.com/DeveloperMaris/iosrssi"
-  url "https://github.com/DeveloperMaris/iosrssi/archive/1.2.0.zip"
-  sha256 "092a80a74ed57d5484254429e6232787a21180821b58b4f87164edd75ba0b6fb"
+  url "https://github.com/DeveloperMaris/iosrssi/archive/1.3.0.zip"
+  sha256 "1f87b228a5ab1348082705f2740576f4c8d60d76d5bac5d1e02e7283e1d44487"
   license "MIT"
 
   def install
